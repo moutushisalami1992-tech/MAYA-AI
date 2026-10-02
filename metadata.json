@@ -1,0 +1,6 @@
+{
+  "name": "Mayra - Personal AI Assistant",
+  "description": "An intelligent, thoughtful personal AI assistant designed to streamline your daily tasks, agenda, notes, and strategic thinking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
